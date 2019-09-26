@@ -1,0 +1,10 @@
+config
+*/assets
+*/assets/*
+*.html
+html
+node_modules
+src
+template
+package.dev.json
+package-lock.json
